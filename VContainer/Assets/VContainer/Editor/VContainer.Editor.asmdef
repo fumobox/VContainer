@@ -1,7 +1,7 @@
 {
     "name": "VContainer.Editor",
     "references": [
-        "GUID:b0214a6008ed146ff8f122a6a9c2f6cc"
+        "GUID:761905d442c3fcd43b78ce74e96f9511"
     ],
     "includePlatforms": [
         "Editor"
